@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://noneelprasad.github.io/folio/](https://noneelprasad.github.io/folio/)
 
-- 📝 I write articles on [https://dev.to/noneelprasad](https://dev.to/noneelprasad)
+- 📝 I recently started to write articles on [https://dev.to/noneelprasad](https://dev.to/noneelprasad)
 
 - 📫 How to reach me **prasadnoneel@gmail.com**
 
