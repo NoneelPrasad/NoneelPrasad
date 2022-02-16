@@ -20,7 +20,7 @@
 
 ```mermaid
 graph TD
-    A{Is there somthing you should do} -->|Yes| B(Start Coding)
+    A{Is there something you should do} -->|Yes| B(Start Coding)
     A -->|No| C(You are lying)
     C --> B 
   ```
